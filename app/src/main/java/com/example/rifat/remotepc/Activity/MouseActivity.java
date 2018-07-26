@@ -24,10 +24,10 @@ public class MouseActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_mouse);
 
-        customLinearLayout = (CustomLinearLayout) findViewById(R.id.touchpad_layout);
+        customLinearLayout = findViewById(R.id.touchpad_layout);
 
-        CustomButton leftButton = (CustomButton) findViewById(R.id.left_button);
-        CustomButton rightButton = (CustomButton) findViewById(R.id.right_button);
+        CustomButton leftButton = findViewById(R.id.left_button);
+        CustomButton rightButton = findViewById(R.id.right_button);
 
         customLinearLayout.setOnTouchListener(new OnTouchListener() {
             @Override

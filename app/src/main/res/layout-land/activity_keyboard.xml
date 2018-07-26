@@ -12,7 +12,7 @@
         android:layout_weight="0.6"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_esc"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -21,7 +21,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -30,7 +30,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -39,7 +39,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f3"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -48,7 +48,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f4"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -57,7 +57,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -66,7 +66,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f6"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -75,7 +75,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f7"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -84,7 +84,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f8"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -93,7 +93,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f9"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -102,7 +102,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f10"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -111,7 +111,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f11"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -120,7 +120,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f12"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -129,7 +129,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_insert"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -138,7 +138,7 @@
             android:textSize="8sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_delete"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -156,7 +156,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_tilde"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -164,7 +164,7 @@
             android:text="@string/key_tilde"
             android:textSize="12sp" />
         
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -172,7 +172,7 @@
             android:text="@string/key_1"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -180,7 +180,7 @@
             android:text="@string/key_2"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_3"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -188,7 +188,7 @@
             android:text="@string/key_3"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_4"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -196,7 +196,7 @@
             android:text="@string/key_4"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -204,7 +204,7 @@
             android:text="@string/key_5"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_6"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -212,7 +212,7 @@
             android:text="@string/key_6"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_7"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -220,7 +220,7 @@
             android:text="@string/key_7"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_8"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -228,7 +228,7 @@
             android:text="@string/key_8"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_9"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -236,7 +236,7 @@
             android:text="@string/key_9"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_0"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -244,7 +244,7 @@
             android:text="@string/key_0"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_minus"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -252,7 +252,7 @@
             android:text="@string/key_minus"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_equal"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -260,7 +260,7 @@
             android:text="@string/key_equal"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_backspace"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -277,7 +277,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_tab"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -286,7 +286,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_q"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -294,7 +294,7 @@
             android:text="@string/key_q"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_w"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -302,7 +302,7 @@
             android:text="@string/key_w"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_e"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -310,7 +310,7 @@
             android:text="@string/key_e"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_r"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -318,7 +318,7 @@
             android:text="@string/key_r"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_t"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -326,7 +326,7 @@
             android:text="@string/key_t"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_y"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -334,7 +334,7 @@
             android:text="@string/key_y"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_u"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -342,7 +342,7 @@
             android:text="@string/key_u"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_i"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -350,7 +350,7 @@
             android:text="@string/key_i"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_o"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -358,7 +358,7 @@
             android:text="@string/key_o"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_p"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -366,7 +366,7 @@
             android:text="@string/key_p"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_bracket_left"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -374,7 +374,7 @@
             android:text="@string/key_bracket_left"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_bracket_right"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -382,7 +382,7 @@
             android:text="@string/key_bracket_right"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_backslash"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -398,7 +398,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_caps"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -407,7 +407,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_a"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -415,7 +415,7 @@
             android:text="@string/key_a"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_s"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -423,7 +423,7 @@
             android:text="@string/key_s"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_d"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -431,7 +431,7 @@
             android:text="@string/key_d"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_f"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -439,7 +439,7 @@
             android:text="@string/key_f"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_g"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -447,7 +447,7 @@
             android:text="@string/key_g"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_h"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -455,7 +455,7 @@
             android:text="@string/key_h"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_j"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -463,7 +463,7 @@
             android:text="@string/key_j"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_k"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -471,7 +471,7 @@
             android:text="@string/key_k"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_l"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -479,7 +479,7 @@
             android:text="@string/key_l"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_semicolon"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -487,7 +487,7 @@
             android:text="@string/key_semicolon"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_quote"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -495,7 +495,7 @@
             android:text="@string/key_quote"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_enter"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -512,7 +512,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_shift_left"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -521,7 +521,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_z"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -529,7 +529,7 @@
             android:text="@string/key_z"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_x"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -537,7 +537,7 @@
             android:text="@string/key_x"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_c"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -545,7 +545,7 @@
             android:text="@string/key_c"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_v"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -553,7 +553,7 @@
             android:text="@string/key_v"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_b"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -561,7 +561,7 @@
             android:text="@string/key_b"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_n"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -569,7 +569,7 @@
             android:text="@string/key_n"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_m"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -577,7 +577,7 @@
             android:text="@string/key_m"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_comma"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -585,7 +585,7 @@
             android:text="@string/key_comma"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_dot"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -593,7 +593,7 @@
             android:text="@string/key_dot"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_slash"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -601,7 +601,7 @@
             android:text="@string/key_slash"
             android:textSize="12sp"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_shift_right"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -618,7 +618,7 @@
         android:layout_weight="1"
         android:orientation="horizontal">
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_control_left"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -627,7 +627,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_function"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -636,7 +636,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_super"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -645,7 +645,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_alter_left"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -654,7 +654,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_space"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -663,7 +663,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_alter_right"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -672,7 +672,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_control_right"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -681,7 +681,7 @@
             android:textSize="12sp"
             android:textAllCaps="false"/>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_left"
             android:layout_width="0dp"
             android:layout_height="match_parent"
@@ -695,7 +695,7 @@
             android:layout_weight="1.2"
             android:orientation="vertical">
 
-            <com.pcremotecontroller.CustomLayout.CustomButton
+            <com.example.rifat.remotepc.CustomLayout.CustomButton
                 android:id="@+id/button_up"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -705,7 +705,7 @@
                 android:textSize="7sp"
                 android:textScaleX="3"/>
 
-            <com.pcremotecontroller.CustomLayout.CustomButton
+            <com.example.rifat.remotepc.CustomLayout.CustomButton
                 android:id="@+id/button_down"
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
@@ -717,7 +717,7 @@
 
         </LinearLayout>
 
-        <com.pcremotecontroller.CustomLayout.CustomButton
+        <com.example.rifat.remotepc.CustomLayout.CustomButton
             android:id="@+id/button_right"
             android:layout_width="0dp"
             android:layout_height="match_parent"
